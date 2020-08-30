@@ -1,0 +1,23 @@
+# Setup
+title: Jason Kimko
+tagline: 'A simple site'
+description: 'A simple site for simple things.'
+url: ''
+baseurl: ''
+paginate: 5
+permalink: pretty
+
+# About/contact
+author:
+  name: Jason Kimko
+  url: ''
+  email: ''
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version: 1.0.0
+github:
+  repo: https://github.com/jskimko
